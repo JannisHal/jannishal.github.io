@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Supervising the seminar on [Modern topics in machine learnign and optimization](https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/veranstaltung.html?veranstaltung=326377) by [Sebastian Pokutta](https://www.pokutta.de) at TU Berlin.
+Supervising the seminar on [Modern topics in machine learnign and optimization](https://moseskonto.tu-berlin.de/moses/verzeichnis/veranstaltungen/veranstaltung.html?veranstaltung=326377) by [Sebastian Pokutta](https://www.pokutta.com) at TU Berlin.
