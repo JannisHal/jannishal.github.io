@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fourth-year PhD candidate at the [Institure of Mathematics](https://www.tu.berlin/math), TU Berlin under the supervision of [Sebastian Pokutta](https://www.pokutta.de) and [Christophe Roux](https://www.christopheroux.de). I am also a member of the [IOL group](https://iol.zib.de) at Zuse Institute Berlin and the [Berlin Mathematical School (BMS)](https://www.math-berlin.de).
+I am a fourth-year PhD candidate at the [Institure of Mathematics](https://www.tu.berlin/math), TU Berlin under the supervision of [Sebastian Pokutta](https://www.pokutta.com). I am also a member of the [IOL group](https://iol.zib.de) at Zuse Institute Berlin and the [Berlin Mathematical School (BMS)](https://www.math-berlin.de).
 
 My research interests lie in large-scale optimization, convex geometry, and combinatorial optimization, with a particular focus on projection-free methods such as Frank–Wolfe algorithms and their variants. I am interested in the development and analysis of scalable algorithms for convex, constrained optimization, especially correction and active-set strategies.
 More recently, I have worked on lower bounds and convergence analysis for first-order methods, aiming to better understand fundamental limits of these algorithms.
