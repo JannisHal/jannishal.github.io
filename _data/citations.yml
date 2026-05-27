@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-05-27'
 papers:
   FYGT6XAAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -18,7 +18,7 @@ papers:
     title: FrankWolfe. jl
     year: '2021'
   FYGT6XAAAAAJ:qjMakFHDy7sC:
-    citations: 3
+    citations: 4
     title: Lower Bounds for Frank-Wolfe on Strongly Convex Sets
     year: '2026'
   FYGT6XAAAAAJ:u-x6o8ySG0sC:
@@ -26,6 +26,6 @@ papers:
     title: A unified toolbox for multipartite entanglement certification
     year: '2025'
   FYGT6XAAAAAJ:u5HHmVD_uO8C:
-    citations: 10
+    citations: 11
     title: Improved algorithms and novel applications of the FrankWolfe. jl library
     year: '2025'
