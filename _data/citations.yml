@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-07-13'
 papers:
   FYGT6XAAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -26,6 +26,6 @@ papers:
     title: A unified toolbox for multipartite entanglement certification
     year: '2025'
   FYGT6XAAAAAJ:u5HHmVD_uO8C:
-    citations: 11
+    citations: 12
     title: Improved algorithms and novel applications of the FrankWolfe. jl library
     year: '2025'
