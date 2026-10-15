@@ -47,12 +47,28 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-lower-bounds-for-frank-wolfe-on-strongly-convex-sets-got-accepted-at-icml-2026",
           title: 'Our paper Lower Bounds for Frank-Wolfe on Strongly Convex Sets got accepted at...',
           description: "",
+          section: "News",},{id: "news-gave-a-talk-on-curvature-dependent-lower-bounds-for-frank-wolfe-at-ghost-inria-in-grenoble",
+          title: 'Gave a talk on “Curvature-Dependent Lower Bounds for Frank-Wolfe” at GHOST Inria in...',
+          description: "",
+          section: "News",},{id: "news-our-paper-curvature-dependent-lower-bounds-for-frank-wolfe-got-accepted-at-neurips-2026-and-i-was-recongnized-as-a-top-reviewer-of-the-conference-top-8",
+          title: 'Our paper Curvature-Dependent Lower Bounds for Frank-Wolfe got accepted at NeurIPS 2026 and...',
+          description: "",
+          section: "News",},{id: "news-supervising-again-the-seminar-on-modern-topics-in-machine-learnign-and-optimization-by-sebastian-pokutta-at-tu-berlin",
+          title: 'Supervising again the seminar on Modern topics in machine learnign and optimization by...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%68%61%6C%62%65%79@%7A%69%62.%64%65", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/jannishal", "_blank");
         },
       },{
         id: 'social-scholar',
