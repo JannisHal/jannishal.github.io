@@ -29,4 +29,3 @@ I am a fourth-year PhD candidate at the [Institure of Mathematics](https://www.t
 My research interests lie in large-scale optimization, convex geometry, and combinatorial optimization, with a particular focus on projection-free methods such as Frank–Wolfe algorithms and their variants. I am interested in the development and analysis of scalable algorithms for convex, constrained optimization, especially correction and active-set strategies.
 More recently, I have worked on lower bounds and convergence analysis for first-order methods, aiming to better understand fundamental limits of these algorithms.
 Furthermore, I am actively contributing to the [FrankWolfe.jl package](https://github.com/ZIB-IOL/FrankWolfe.jl).
-
